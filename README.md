@@ -1,4 +1,4 @@
-## Performing_CRUD_operations, authenticating each http method and testing(unit and integration), using an in-memory user object as database
+## Performing_CRUD_operations and authenticating each http method, using an in-memory user object as database
 
 A non-framework minimal task for performing the CRUD operations in NodeJS.
 
